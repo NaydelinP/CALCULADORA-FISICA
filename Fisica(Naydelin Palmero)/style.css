@@ -1,0 +1,71 @@
+
+body{  
+    text-align: center;
+    min-height: 100vh;
+    position:relative;
+ background-image: url(./Fotillo.jpg);
+}
+
+
+label{
+    text-align: center;
+    width: 140px;
+    display: inline-block;
+    margin: 0.2cm;
+
+    font-size: 16px;
+    font-weight: bold;
+}
+
+input{
+    text-align: center;
+    padding: 4px;
+    margin: 5px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px solid #f9f9f9;
+    width: 7cm;
+}
+
+input#submit{
+    text-align: center;
+    margin-top: 7px;
+    color:white;
+    font-weight: bold;
+    padding: 4px;
+    background-color: dodgerblue;
+}
+
+button{
+    text-align: center;
+    padding: 4px;
+    margin: 5px;
+    font-size: 16px;
+    border-radius: 10px;
+    border: 1px solid #f9f9f9;
+    width: 4.5cm;
+}
+
+input#submit:hover{
+    text-align: center;
+    background-color: green;
+    color:#f9f9f9;  
+    text-decoration-color: dodgerblue;  
+}
+
+h2{
+    text-align: center;
+
+    color:#95fab9;
+    font-size: 24px;
+}
+
+h3{
+    text-align: center;
+    color:#84b6f4;
+    font-size: 24px;
+}
+
+font-face {
+    font-family:fantasy;
+}
